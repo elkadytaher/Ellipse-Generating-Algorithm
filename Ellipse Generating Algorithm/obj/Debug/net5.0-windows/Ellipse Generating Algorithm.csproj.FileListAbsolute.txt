@@ -1,0 +1,18 @@
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.exe
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.deps.json
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.runtimeconfig.json
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.runtimeconfig.dev.json
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.dll
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\ref\Ellipse Generating Algorithm.dll
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\bin\Debug\net5.0-windows\Ellipse Generating Algorithm.pdb
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.csprojAssemblyReference.cache
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse_Generating_Algorithm.Form1.resources
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.csproj.GenerateResource.cache
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.AssemblyInfoInputs.cache
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.AssemblyInfo.cs
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.dll
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\ref\Ellipse Generating Algorithm.dll
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.pdb
+C:\Users\A-TALAAT\Desktop\Ellipse Generating Algorithm\Ellipse Generating Algorithm\obj\Debug\net5.0-windows\Ellipse Generating Algorithm.genruntimeconfig.cache

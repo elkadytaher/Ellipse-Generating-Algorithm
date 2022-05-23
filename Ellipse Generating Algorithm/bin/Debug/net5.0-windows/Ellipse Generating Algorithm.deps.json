@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ellipse Generating Algorithm/1.0.0": {
+        "runtime": {
+          "Ellipse Generating Algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ellipse Generating Algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
